@@ -11,6 +11,8 @@ namespace SonarOnPull
         static void Main(string[] args)
         {
             Console.WriteLine("Result:" + AddNumbers(3,4,52,3));
+            Console.WriteLine("Result:" + AddNumbers(3, 4, 52, 3));
+            Console.WriteLine("Result:" + AddNumbers(3, 4, 52, 3));
             Console.WriteLine("Result:" + AddAndSubstractNumbers(3, 10, 52,55));
         }
 
