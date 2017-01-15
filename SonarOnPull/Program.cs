@@ -21,6 +21,7 @@ namespace SonarOnPull
             {
                 result += num;
             }
+            while(true) { }
             return result;
         }
 
